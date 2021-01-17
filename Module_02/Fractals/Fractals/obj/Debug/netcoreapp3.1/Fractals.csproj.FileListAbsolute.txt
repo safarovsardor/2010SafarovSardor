@@ -1,0 +1,15 @@
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\bin\Debug\netcoreapp3.1\Fractals.exe
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\bin\Debug\netcoreapp3.1\Fractals.deps.json
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\bin\Debug\netcoreapp3.1\Fractals.runtimeconfig.json
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\bin\Debug\netcoreapp3.1\Fractals.runtimeconfig.dev.json
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\bin\Debug\netcoreapp3.1\Fractals.dll
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\bin\Debug\netcoreapp3.1\Fractals.pdb
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.Form1.resources
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.csproj.GenerateResource.cache
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.AssemblyInfoInputs.cache
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.AssemblyInfo.cs
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.csproj.CoreCompileInputs.cache
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.dll
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.pdb
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.genruntimeconfig.cache
+D:\C##########\2010SafarovSardor\Module_02\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.csprojAssemblyReference.cache

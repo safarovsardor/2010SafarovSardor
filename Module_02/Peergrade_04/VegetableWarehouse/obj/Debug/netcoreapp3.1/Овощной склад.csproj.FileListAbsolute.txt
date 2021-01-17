@@ -1,0 +1,13 @@
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\bin\Debug\netcoreapp3.1\Овощной склад.exe
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\bin\Debug\netcoreapp3.1\Овощной склад.deps.json
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\bin\Debug\netcoreapp3.1\Овощной склад.runtimeconfig.json
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\bin\Debug\netcoreapp3.1\Овощной склад.runtimeconfig.dev.json
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\bin\Debug\netcoreapp3.1\Овощной склад.dll
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\bin\Debug\netcoreapp3.1\Овощной склад.pdb
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\obj\Debug\netcoreapp3.1\Овощной склад.csprojAssemblyReference.cache
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\obj\Debug\netcoreapp3.1\Овощной склад.AssemblyInfoInputs.cache
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\obj\Debug\netcoreapp3.1\Овощной склад.AssemblyInfo.cs
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\obj\Debug\netcoreapp3.1\Овощной склад.csproj.CoreCompileInputs.cache
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\obj\Debug\netcoreapp3.1\Овощной склад.dll
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\obj\Debug\netcoreapp3.1\Овощной склад.pdb
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\Овощной склад\obj\Debug\netcoreapp3.1\Овощной склад.genruntimeconfig.cache
