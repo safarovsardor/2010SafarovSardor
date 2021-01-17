@@ -1,0 +1,26 @@
+G:\Сардор\Новая папка\HelloWorld\Task_04\bin\Debug\netcoreapp3.1\Task_04.exe
+G:\Сардор\Новая папка\HelloWorld\Task_04\bin\Debug\netcoreapp3.1\Task_04.deps.json
+G:\Сардор\Новая папка\HelloWorld\Task_04\bin\Debug\netcoreapp3.1\Task_04.runtimeconfig.json
+G:\Сардор\Новая папка\HelloWorld\Task_04\bin\Debug\netcoreapp3.1\Task_04.runtimeconfig.dev.json
+G:\Сардор\Новая папка\HelloWorld\Task_04\bin\Debug\netcoreapp3.1\Task_04.dll
+G:\Сардор\Новая папка\HelloWorld\Task_04\bin\Debug\netcoreapp3.1\Task_04.pdb
+G:\Сардор\Новая папка\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.csprojAssemblyReference.cache
+G:\Сардор\Новая папка\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.AssemblyInfoInputs.cache
+G:\Сардор\Новая папка\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.AssemblyInfo.cs
+G:\Сардор\Новая папка\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.csproj.CoreCompileInputs.cache
+G:\Сардор\Новая папка\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.dll
+G:\Сардор\Новая папка\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.pdb
+G:\Сардор\Новая папка\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.genruntimeconfig.cache
+G:\Сардор\C##########\HelloWorld\Task_04\bin\Debug\netcoreapp3.1\Task_04.exe
+G:\Сардор\C##########\HelloWorld\Task_04\bin\Debug\netcoreapp3.1\Task_04.deps.json
+G:\Сардор\C##########\HelloWorld\Task_04\bin\Debug\netcoreapp3.1\Task_04.runtimeconfig.json
+G:\Сардор\C##########\HelloWorld\Task_04\bin\Debug\netcoreapp3.1\Task_04.runtimeconfig.dev.json
+G:\Сардор\C##########\HelloWorld\Task_04\bin\Debug\netcoreapp3.1\Task_04.dll
+G:\Сардор\C##########\HelloWorld\Task_04\bin\Debug\netcoreapp3.1\Task_04.pdb
+G:\Сардор\C##########\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.csprojAssemblyReference.cache
+G:\Сардор\C##########\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.AssemblyInfoInputs.cache
+G:\Сардор\C##########\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.AssemblyInfo.cs
+G:\Сардор\C##########\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.csproj.CoreCompileInputs.cache
+G:\Сардор\C##########\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.dll
+G:\Сардор\C##########\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.pdb
+G:\Сардор\C##########\HelloWorld\Task_04\obj\Debug\netcoreapp3.1\Task_04.genruntimeconfig.cache

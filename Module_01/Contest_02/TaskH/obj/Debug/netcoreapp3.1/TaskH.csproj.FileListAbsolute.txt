@@ -1,0 +1,13 @@
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\obj\Debug\netcoreapp3.1\TaskH.csprojAssemblyReference.cache
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\obj\Debug\netcoreapp3.1\TaskH.AssemblyInfoInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\obj\Debug\netcoreapp3.1\TaskH.AssemblyInfo.cs
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\obj\Debug\netcoreapp3.1\TaskH.csproj.CoreCompileInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\bin\Debug\netcoreapp3.1\TaskH.exe
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\bin\Debug\netcoreapp3.1\TaskH.deps.json
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\bin\Debug\netcoreapp3.1\TaskH.runtimeconfig.json
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\bin\Debug\netcoreapp3.1\TaskH.runtimeconfig.dev.json
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\bin\Debug\netcoreapp3.1\TaskH.dll
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\bin\Debug\netcoreapp3.1\TaskH.pdb
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\obj\Debug\netcoreapp3.1\TaskH.dll
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\obj\Debug\netcoreapp3.1\TaskH.pdb
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskH\obj\Debug\netcoreapp3.1\TaskH.genruntimeconfig.cache

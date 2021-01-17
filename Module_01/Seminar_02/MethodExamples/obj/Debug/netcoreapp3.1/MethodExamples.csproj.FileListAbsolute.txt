@@ -1,0 +1,12 @@
+G:\Сардор\C##########\2010SafarovSardor\Seminar_02\MethodExamples\bin\Debug\netcoreapp3.1\MethodExamples.exe
+G:\Сардор\C##########\2010SafarovSardor\Seminar_02\MethodExamples\bin\Debug\netcoreapp3.1\MethodExamples.deps.json
+G:\Сардор\C##########\2010SafarovSardor\Seminar_02\MethodExamples\bin\Debug\netcoreapp3.1\MethodExamples.runtimeconfig.json
+G:\Сардор\C##########\2010SafarovSardor\Seminar_02\MethodExamples\bin\Debug\netcoreapp3.1\MethodExamples.runtimeconfig.dev.json
+G:\Сардор\C##########\2010SafarovSardor\Seminar_02\MethodExamples\bin\Debug\netcoreapp3.1\MethodExamples.dll
+G:\Сардор\C##########\2010SafarovSardor\Seminar_02\MethodExamples\bin\Debug\netcoreapp3.1\MethodExamples.pdb
+G:\Сардор\C##########\2010SafarovSardor\Seminar_02\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.AssemblyInfoInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\Seminar_02\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.AssemblyInfo.cs
+G:\Сардор\C##########\2010SafarovSardor\Seminar_02\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.csproj.CoreCompileInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\Seminar_02\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.dll
+G:\Сардор\C##########\2010SafarovSardor\Seminar_02\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.pdb
+G:\Сардор\C##########\2010SafarovSardor\Seminar_02\MethodExamples\obj\Debug\netcoreapp3.1\MethodExamples.genruntimeconfig.cache

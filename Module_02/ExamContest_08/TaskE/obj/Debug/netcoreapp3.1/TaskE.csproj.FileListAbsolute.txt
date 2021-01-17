@@ -1,0 +1,13 @@
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\bin\Debug\netcoreapp3.1\TaskE.exe
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\bin\Debug\netcoreapp3.1\TaskE.deps.json
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\bin\Debug\netcoreapp3.1\TaskE.runtimeconfig.json
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\bin\Debug\netcoreapp3.1\TaskE.runtimeconfig.dev.json
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\bin\Debug\netcoreapp3.1\TaskE.dll
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\bin\Debug\netcoreapp3.1\TaskE.pdb
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\obj\Debug\netcoreapp3.1\TaskE.csprojAssemblyReference.cache
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\obj\Debug\netcoreapp3.1\TaskE.AssemblyInfoInputs.cache
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\obj\Debug\netcoreapp3.1\TaskE.AssemblyInfo.cs
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\obj\Debug\netcoreapp3.1\TaskE.csproj.CoreCompileInputs.cache
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\obj\Debug\netcoreapp3.1\TaskE.dll
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\obj\Debug\netcoreapp3.1\TaskE.pdb
+C:\Users\sardo\Downloads\Programming2020-master (2)\Programming2020-master\ExamContest2\TaskE\obj\Debug\netcoreapp3.1\TaskE.genruntimeconfig.cache

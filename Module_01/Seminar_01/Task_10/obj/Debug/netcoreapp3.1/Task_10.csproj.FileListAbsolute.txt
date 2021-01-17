@@ -1,0 +1,12 @@
+G:\Сардор\C##########\HelloWorld\Task_10\bin\Debug\netcoreapp3.1\Task_10.exe
+G:\Сардор\C##########\HelloWorld\Task_10\bin\Debug\netcoreapp3.1\Task_10.deps.json
+G:\Сардор\C##########\HelloWorld\Task_10\bin\Debug\netcoreapp3.1\Task_10.runtimeconfig.json
+G:\Сардор\C##########\HelloWorld\Task_10\bin\Debug\netcoreapp3.1\Task_10.runtimeconfig.dev.json
+G:\Сардор\C##########\HelloWorld\Task_10\bin\Debug\netcoreapp3.1\Task_10.dll
+G:\Сардор\C##########\HelloWorld\Task_10\bin\Debug\netcoreapp3.1\Task_10.pdb
+G:\Сардор\C##########\HelloWorld\Task_10\obj\Debug\netcoreapp3.1\Task_10.AssemblyInfoInputs.cache
+G:\Сардор\C##########\HelloWorld\Task_10\obj\Debug\netcoreapp3.1\Task_10.AssemblyInfo.cs
+G:\Сардор\C##########\HelloWorld\Task_10\obj\Debug\netcoreapp3.1\Task_10.csproj.CoreCompileInputs.cache
+G:\Сардор\C##########\HelloWorld\Task_10\obj\Debug\netcoreapp3.1\Task_10.dll
+G:\Сардор\C##########\HelloWorld\Task_10\obj\Debug\netcoreapp3.1\Task_10.pdb
+G:\Сардор\C##########\HelloWorld\Task_10\obj\Debug\netcoreapp3.1\Task_10.genruntimeconfig.cache

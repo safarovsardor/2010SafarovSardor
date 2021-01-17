@@ -1,0 +1,12 @@
+G:\Сардор\C##########\Seminar_01\Hello World!\bin\Debug\netcoreapp3.1\Hello World!.exe
+G:\Сардор\C##########\Seminar_01\Hello World!\bin\Debug\netcoreapp3.1\Hello World!.deps.json
+G:\Сардор\C##########\Seminar_01\Hello World!\bin\Debug\netcoreapp3.1\Hello World!.runtimeconfig.json
+G:\Сардор\C##########\Seminar_01\Hello World!\bin\Debug\netcoreapp3.1\Hello World!.runtimeconfig.dev.json
+G:\Сардор\C##########\Seminar_01\Hello World!\bin\Debug\netcoreapp3.1\Hello World!.dll
+G:\Сардор\C##########\Seminar_01\Hello World!\bin\Debug\netcoreapp3.1\Hello World!.pdb
+G:\Сардор\C##########\Seminar_01\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.AssemblyInfoInputs.cache
+G:\Сардор\C##########\Seminar_01\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.AssemblyInfo.cs
+G:\Сардор\C##########\Seminar_01\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.csproj.CoreCompileInputs.cache
+G:\Сардор\C##########\Seminar_01\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.dll
+G:\Сардор\C##########\Seminar_01\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.pdb
+G:\Сардор\C##########\Seminar_01\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.genruntimeconfig.cache

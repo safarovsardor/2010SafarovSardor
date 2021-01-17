@@ -1,0 +1,13 @@
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\bin\Debug\netcoreapp3.1\Task_02.exe
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\bin\Debug\netcoreapp3.1\Task_02.deps.json
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\bin\Debug\netcoreapp3.1\Task_02.runtimeconfig.json
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\bin\Debug\netcoreapp3.1\Task_02.runtimeconfig.dev.json
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\bin\Debug\netcoreapp3.1\Task_02.dll
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\bin\Debug\netcoreapp3.1\Task_02.pdb
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\obj\Debug\netcoreapp3.1\Task_02.csprojAssemblyReference.cache
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\obj\Debug\netcoreapp3.1\Task_02.AssemblyInfoInputs.cache
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\obj\Debug\netcoreapp3.1\Task_02.AssemblyInfo.cs
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\obj\Debug\netcoreapp3.1\Task_02.csproj.CoreCompileInputs.cache
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\obj\Debug\netcoreapp3.1\Task_02.dll
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\obj\Debug\netcoreapp3.1\Task_02.pdb
+D:\C##########\2010SafarovSardor\Module_02\Seminar_02_06\Task_02\obj\Debug\netcoreapp3.1\Task_02.genruntimeconfig.cache
