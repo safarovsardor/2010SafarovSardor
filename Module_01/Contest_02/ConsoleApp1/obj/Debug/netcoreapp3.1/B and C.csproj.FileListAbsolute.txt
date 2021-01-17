@@ -1,0 +1,12 @@
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp1\bin\Debug\netcoreapp3.1\B and C.exe
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp1\bin\Debug\netcoreapp3.1\B and C.deps.json
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp1\bin\Debug\netcoreapp3.1\B and C.runtimeconfig.json
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp1\bin\Debug\netcoreapp3.1\B and C.runtimeconfig.dev.json
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp1\bin\Debug\netcoreapp3.1\B and C.dll
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp1\bin\Debug\netcoreapp3.1\B and C.pdb
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp1\obj\Debug\netcoreapp3.1\B and C.AssemblyInfoInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp1\obj\Debug\netcoreapp3.1\B and C.AssemblyInfo.cs
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp1\obj\Debug\netcoreapp3.1\B and C.csproj.CoreCompileInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp1\obj\Debug\netcoreapp3.1\B and C.dll
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp1\obj\Debug\netcoreapp3.1\B and C.pdb
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp1\obj\Debug\netcoreapp3.1\B and C.genruntimeconfig.cache

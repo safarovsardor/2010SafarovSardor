@@ -1,0 +1,13 @@
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.AssemblyInfoInputs.cache
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.AssemblyInfo.cs
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.csproj.CoreCompileInputs.cache
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.csprojAssemblyReference.cache
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.exe
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.deps.json
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.runtimeconfig.json
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.runtimeconfig.dev.json
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.dll
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.pdb
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.dll
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.pdb
+D:\C##########\2010SafarovSardor\Contest_05\TaskJ\obj\Debug\netcoreapp3.1\TaskJ.genruntimeconfig.cache

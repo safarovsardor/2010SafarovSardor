@@ -1,0 +1,10 @@
+G:\Сардор\C##########\2010SafarovSardor\Seminar_08\FileExplorer1\bin\Debug\FileExplorer1.exe.config
+G:\Сардор\C##########\2010SafarovSardor\Seminar_08\FileExplorer1\bin\Debug\FileExplorer1.exe
+G:\Сардор\C##########\2010SafarovSardor\Seminar_08\FileExplorer1\bin\Debug\FileExplorer1.pdb
+G:\Сардор\C##########\2010SafarovSardor\Seminar_08\FileExplorer1\obj\Debug\FileExplorer1.csprojAssemblyReference.cache
+G:\Сардор\C##########\2010SafarovSardor\Seminar_08\FileExplorer1\obj\Debug\FileExplorer1.Form1.resources
+G:\Сардор\C##########\2010SafarovSardor\Seminar_08\FileExplorer1\obj\Debug\FileExplorer1.Properties.Resources.resources
+G:\Сардор\C##########\2010SafarovSardor\Seminar_08\FileExplorer1\obj\Debug\FileExplorer1.csproj.GenerateResource.cache
+G:\Сардор\C##########\2010SafarovSardor\Seminar_08\FileExplorer1\obj\Debug\FileExplorer1.csproj.CoreCompileInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\Seminar_08\FileExplorer1\obj\Debug\FileExplorer1.exe
+G:\Сардор\C##########\2010SafarovSardor\Seminar_08\FileExplorer1\obj\Debug\FileExplorer1.pdb
