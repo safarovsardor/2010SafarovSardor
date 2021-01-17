@@ -1,0 +1,13 @@
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\bin\Debug\netcoreapp3.1\VegetableWarehouse.exe
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\bin\Debug\netcoreapp3.1\VegetableWarehouse.deps.json
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\bin\Debug\netcoreapp3.1\VegetableWarehouse.runtimeconfig.json
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\bin\Debug\netcoreapp3.1\VegetableWarehouse.runtimeconfig.dev.json
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\bin\Debug\netcoreapp3.1\VegetableWarehouse.dll
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\bin\Debug\netcoreapp3.1\VegetableWarehouse.pdb
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\obj\Debug\netcoreapp3.1\VegetableWarehouse.csprojAssemblyReference.cache
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\obj\Debug\netcoreapp3.1\VegetableWarehouse.AssemblyInfoInputs.cache
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\obj\Debug\netcoreapp3.1\VegetableWarehouse.AssemblyInfo.cs
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\obj\Debug\netcoreapp3.1\VegetableWarehouse.csproj.CoreCompileInputs.cache
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\obj\Debug\netcoreapp3.1\VegetableWarehouse.dll
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\obj\Debug\netcoreapp3.1\VegetableWarehouse.pdb
+D:\C##########\2010SafarovSardor\Module_02\Peergrade_04\VegetableWarehouse\obj\Debug\netcoreapp3.1\VegetableWarehouse.genruntimeconfig.cache

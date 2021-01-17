@@ -1,0 +1,7 @@
+G:\Сардор\C##########\2010SafarovSardor\Contest\Task_F\bin\Debug\Task_F.exe.config
+G:\Сардор\C##########\2010SafarovSardor\Contest\Task_F\bin\Debug\Task_F.exe
+G:\Сардор\C##########\2010SafarovSardor\Contest\Task_F\bin\Debug\Task_F.pdb
+G:\Сардор\C##########\2010SafarovSardor\Contest\Task_F\obj\Debug\Task_F.csprojAssemblyReference.cache
+G:\Сардор\C##########\2010SafarovSardor\Contest\Task_F\obj\Debug\Task_F.csproj.CoreCompileInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\Contest\Task_F\obj\Debug\Task_F.exe
+G:\Сардор\C##########\2010SafarovSardor\Contest\Task_F\obj\Debug\Task_F.pdb

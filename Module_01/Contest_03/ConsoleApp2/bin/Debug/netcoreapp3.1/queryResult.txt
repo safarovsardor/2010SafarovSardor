@@ -1,0 +1,3 @@
+Kelis;Mckenna;BSE209;37;3.53
+Shah;Mckenna;BSE207;8;6.02
+Wyatt;Mckenna;BSE205;42;3.24

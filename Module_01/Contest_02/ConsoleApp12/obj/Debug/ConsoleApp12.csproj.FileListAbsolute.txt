@@ -1,0 +1,7 @@
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp12\obj\Debug\ConsoleApp12.csprojAssemblyReference.cache
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+G:\Сардор\C##########\2010SafarovSardor\Contest_02\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
