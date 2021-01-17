@@ -1,0 +1,13 @@
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\bin\Debug\netcoreapp3.1\TaskC.exe
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\bin\Debug\netcoreapp3.1\TaskC.deps.json
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\bin\Debug\netcoreapp3.1\TaskC.runtimeconfig.json
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\bin\Debug\netcoreapp3.1\TaskC.runtimeconfig.dev.json
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\bin\Debug\netcoreapp3.1\TaskC.dll
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\bin\Debug\netcoreapp3.1\TaskC.pdb
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\obj\Debug\netcoreapp3.1\TaskC.csprojAssemblyReference.cache
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\obj\Debug\netcoreapp3.1\TaskC.AssemblyInfoInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\obj\Debug\netcoreapp3.1\TaskC.AssemblyInfo.cs
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\obj\Debug\netcoreapp3.1\TaskC.csproj.CoreCompileInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\obj\Debug\netcoreapp3.1\TaskC.dll
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\obj\Debug\netcoreapp3.1\TaskC.pdb
+G:\Сардор\C##########\2010SafarovSardor\Contest_03\TaskC\obj\Debug\netcoreapp3.1\TaskC.genruntimeconfig.cache

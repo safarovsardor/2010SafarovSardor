@@ -1,0 +1,7 @@
+G:\Сардор\C##########\2010SafarovSardor\ExamContest1\черновик\bin\Debug\черновик.exe.config
+G:\Сардор\C##########\2010SafarovSardor\ExamContest1\черновик\bin\Debug\черновик.exe
+G:\Сардор\C##########\2010SafarovSardor\ExamContest1\черновик\bin\Debug\черновик.pdb
+G:\Сардор\C##########\2010SafarovSardor\ExamContest1\черновик\obj\Debug\черновик.csprojAssemblyReference.cache
+G:\Сардор\C##########\2010SafarovSardor\ExamContest1\черновик\obj\Debug\черновик.csproj.CoreCompileInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\ExamContest1\черновик\obj\Debug\черновик.exe
+G:\Сардор\C##########\2010SafarovSardor\ExamContest1\черновик\obj\Debug\черновик.pdb

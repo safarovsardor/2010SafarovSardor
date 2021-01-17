@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TaskJ</id>
+    <version>1.0.0</version>
+    <authors>TaskJ</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.runtimeconfig.json" target="lib\netcoreapp3.1\TaskJ.runtimeconfig.json" />
+    <file src="G:\Сардор\C##########\2010SafarovSardor\Contest_02\TaskJ\bin\Debug\netcoreapp3.1\TaskJ.dll" target="lib\netcoreapp3.1\TaskJ.dll" />
+  </files>
+</package>

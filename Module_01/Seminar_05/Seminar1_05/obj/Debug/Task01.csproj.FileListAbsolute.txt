@@ -1,0 +1,7 @@
+G:\Сардор\C##########\2010SafarovSardor\Seminar_05\Seminar1_05\bin\Debug\Seminar1_05.exe.config
+G:\Сардор\C##########\2010SafarovSardor\Seminar_05\Seminar1_05\bin\Debug\Seminar1_05.exe
+G:\Сардор\C##########\2010SafarovSardor\Seminar_05\Seminar1_05\bin\Debug\Seminar1_05.pdb
+G:\Сардор\C##########\2010SafarovSardor\Seminar_05\Seminar1_05\obj\Debug\Task01.csprojAssemblyReference.cache
+G:\Сардор\C##########\2010SafarovSardor\Seminar_05\Seminar1_05\obj\Debug\Task01.csproj.CoreCompileInputs.cache
+G:\Сардор\C##########\2010SafarovSardor\Seminar_05\Seminar1_05\obj\Debug\Seminar1_05.exe
+G:\Сардор\C##########\2010SafarovSardor\Seminar_05\Seminar1_05\obj\Debug\Seminar1_05.pdb
